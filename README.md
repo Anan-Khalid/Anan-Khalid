@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Anan-Khalid/Anan-Khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, I'm Anan 👋
+
+> *"The best code is the kind you never have to think about twice."*
+
+```js
+const anan = {
+  role: "Full-stack engineer",
+  superpower: "Back ends that are boringly reliable, front ends that are quietly delightful",
+  stack: ["ASP.NET Core", "React", "SQL Server"],
+  believesIn: ["Clean Architecture", "Readable code", "Shipping over perfecting"],
+  lookingFor: "Problems worth building a great solution for",
+};
+```
+
+### What I do
+I take an idea from a blank page to a deployed product: database design, APIs, interface, and the polish in between.
+
+### Let's build something
+📫 [anan8137@gmail.com] 
