@@ -32,4 +32,4 @@ const Anan = {
 I take an idea from a blank page to a deployed product: database design, APIs, interface, and the polish in between.
 
 ### Let's build something
-📫 [anan8137@gmail.com] 
+[Here's my Email](mailto:anan8137@gmail.com)
