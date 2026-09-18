@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Anan 👋
+# Glad you stopped by
 
-> *"The best code is the kind you never have to think about twice."*
+> *"Still learning, always building."*
 
 ```js
 const anan = {
   role: "Full-stack engineer",
   superpower: "Back ends that are boringly reliable, front ends that are quietly delightful",
   stack: ["ASP.NET Core", "React", "SQL Server"],
-  believesIn: ["Clean Architecture", "Readable code", "Shipping over perfecting"],
+  believesIn: ["Clean Architecture", "Readable code"],
   lookingFor: "Problems worth building a great solution for",
 };
 ```
