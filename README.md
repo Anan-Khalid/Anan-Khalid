@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ```js
 const Anan = {
-  role: "Full-stack engineer",
+  role: "Full-stack Engineer",
   superpower: "Back ends that are boringly reliable, front ends that are quietly delightful",
   stack: ["ASP.NET Core", "React", "SQL Server"],
   believesIn: ["Clean Architecture", "Readable code"],
