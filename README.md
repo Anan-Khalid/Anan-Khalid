@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > *"Still learning, always building."*
 
 ```js
-const anan = {
+const Anan = {
   role: "Full-stack engineer",
   superpower: "Back ends that are boringly reliable, front ends that are quietly delightful",
   stack: ["ASP.NET Core", "React", "SQL Server"],
